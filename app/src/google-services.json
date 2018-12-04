@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43126381379",
+    "firebase_url": "https://rodriguezemillab9.firebaseio.com",
+    "project_id": "rodriguezemillab9",
+    "storage_bucket": "rodriguezemillab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43126381379:android:5805baaa80e08721",
+        "android_client_info": {
+          "package_name": "com.rodriguez.emil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43126381379-m17asr8jlk4so7sesol1fm0r3d467vpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rodriguez.emil",
+            "certificate_hash": "0f99f1f313a94f0a867cce476389ac8b8ae819ec"
+          }
+        },
+        {
+          "client_id": "43126381379-4sle3imj40r7rsetqq8cqd773q5rpipo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0khieka11jfsLv4w6Ay78w0tRHCkBbAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43126381379-4sle3imj40r7rsetqq8cqd773q5rpipo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
